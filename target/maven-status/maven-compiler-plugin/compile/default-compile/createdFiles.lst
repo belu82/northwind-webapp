@@ -1,0 +1,15 @@
+com/codecool/northwindwevapp/model/Task3.class
+com/codecool/northwindwevapp/dao/TaskDao.class
+com/codecool/northwindwevapp/model/Task2.class
+com/codecool/northwindwevapp/service/exception/ServiceException.class
+com/codecool/northwindwevapp/servlet/AbstractServlet.class
+com/codecool/northwindwevapp/service/TaskFilterService.class
+com/codecool/northwindwevapp/servlet/Task2Servlet.class
+com/codecool/northwindwevapp/servlet/Task1Servlet.class
+com/codecool/northwindwevapp/model/Task1.class
+com/codecool/northwindwevapp/service/TaskService.class
+com/codecool/northwindwevapp/service/simple/SimpleTaskService.class
+com/codecool/northwindwevapp/dao/Database/AbstractDao.class
+com/codecool/northwindwevapp/servlet/Task3Servlet.class
+com/codecool/northwindwevapp/dao/Database/DbTaskDao.class
+com/codecool/northwindwevapp/listener/WebappContextListener.class

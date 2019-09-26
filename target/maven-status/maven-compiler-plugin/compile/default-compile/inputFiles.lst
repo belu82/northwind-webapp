@@ -1,0 +1,13 @@
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/service/TaskService.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/servlet/AbstractServlet.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/listener/WebappContextListener.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/model/Task2.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/dao/Database/DbTaskDao.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/servlet/Task1Servlet.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/service/exception/ServiceException.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/servlet/Task2Servlet.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/dao/Database/AbstractDao.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/service/TaskFilterService.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/service/simple/SimpleTaskService.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/dao/TaskDao.java
+/home/beluscsak/my_web/NorthwindWebapp/src/main/java/com/codecool/northwindwevapp/model/Task1.java
